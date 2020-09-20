@@ -1,3 +1,9 @@
+## Game titles fetcher
+Created project with React, ES6, HTML and SASS. Mobile first approach applied. 
+The project was tested on Chrome, Firefox, MS Edge and Safari.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

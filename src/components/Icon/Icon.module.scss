@@ -1,0 +1,47 @@
+.icon-all, .icon-top, .icon-new, .icon-search {
+  display: block;
+}
+
+.icon-all {
+  background: url(/img/ico_all.svg) no-repeat;
+
+  & + span{
+      color: #00a9e0;
+  }
+}
+
+.icon-top {
+  background: url(/img/ico_top.svg) no-repeat;
+}
+
+.icon-new {
+  background: url(/img/ico_new.svg) no-repeat;
+}
+
+.icon-search {
+  background: url(/img/ico_search.svg) no-repeat;
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  background-color: #5B6770;
+  border-radius: 100%;
+  z-index: 999;
+}
+
+.small {
+  height: 28px;
+  width: 28px;
+  background-size: 18px 18px;
+}
+
+.medium {
+  height: 35px;
+  width: 35px;
+  background-size: 24px 24px;
+}
+
+.large {
+  height: 40px;
+  width: 40px;
+  background-size: 30px 30px;
+}

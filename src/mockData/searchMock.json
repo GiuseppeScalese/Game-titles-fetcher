@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "tag": "gonzos quest",
+    "name": "",
+    "image": "../img/gonzo-quest.png"
+  },
+  {
+    "id": 2,
+    "name": "aloha",
+    "tag": "new",
+    "image": "../img/aloha.png"
+  },
+  {
+    "id": 3,
+    "name": "hotline",
+    "tag": "top",
+    "image": "../img/hotline.png"
+  },
+  {
+    "id": 4,
+    "name": "fruit spin",
+    "tag": "",
+    "image": "../img/fruit-spin.png"
+  },
+  {
+    "id": 5,
+    "name": "jumanji",
+    "tag": "",
+    "image":  "../img/jumanji.png"
+  },
+  {
+    "id": 6,
+    "name": "fruit spin",
+    "tag": "top",
+    "image":  "../img/fruit-spin.png"
+  },
+  {
+    "id": 7,
+    "name": "neon jungle",
+    "tag": "",
+    "image":  "../img/neon-jungle.png"
+  }, 
+  {
+    "id": 8,
+    "name": "jack hammer",
+    "tag": "top",
+    "image":  "../img/jack-hammer.png"
+  },
+  {
+    "id": 9,
+    "name": "spinata grande",
+    "tag": "",
+    "image":  "../img/spinata-grande.png"
+  },
+  {
+    "id": 10,
+    "name": "sugar smash",
+    "tag": "",
+    "image":  "../img/sugar-smash.png"
+  },
+  {
+    "id": 11,
+    "name": "jumanji",
+    "tag": "",
+    "image":  "../img/jumanji.png"
+  },
+  {
+    "id": 10,
+    "name": "hot gems",
+    "tag": "",
+    "image":  "../img/hot-gems.png"
+  },
+  {
+    "id": 12,
+    "name": "fafa twins",
+    "tag": "top",
+    "image":  "../img/fafa-twins.png"
+  },
+  {
+    "id": 13,
+    "name": "day of the dead",
+    "tag": "",
+    "image":  "../img/day-of-the-dead.png"
+  },
+  {
+    "id": 14,
+    "name": "dr. jeckyll and mr. hyde",
+    "tag": "",
+    "image":  "../img/dr-jekyll.png"
+  },
+  {
+    "id": 15,
+    "name": "3 hit pay",
+    "tag": "",
+    "image":  "../img/three-hit-pay.png"
+  },
+  {
+    "id": 16,
+    "name": "aloha",
+    "tag": "new",
+    "image":  "../img/aloha.png"
+  },
+  {
+    "id": 17,
+    "name": "hotline-new",
+    "tag": "new",
+    "image":  "../img/hotline-new.png"
+  },
+  {
+    "id": 17,
+    "name": "sea-tranquillity",
+    "tag": "new",
+    "image":  "../img/sea-tranquillity.png"
+  }
+]

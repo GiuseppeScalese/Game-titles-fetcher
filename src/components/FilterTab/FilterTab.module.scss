@@ -1,0 +1,14 @@
+.filter-tab-box {
+    text-align: center;
+    padding: 0px 15px;
+    cursor: pointer;
+
+    &.selected {
+        background-color: #c2c2c2;
+    }
+}
+
+.tab-copy {
+    font-size: 12px;
+    text-transform: uppercase;
+}

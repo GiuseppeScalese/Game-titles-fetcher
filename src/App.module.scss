@@ -1,0 +1,100 @@
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  margin-top:50px;
+  margin-bottom: 50px;
+  width: 100%;
+
+  @media screen and (min-width: 768px) {    
+    width: 90%;
+  }
+}
+
+.main-heading {
+  color: #00a9e0;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+  margin: 0;
+
+  @media screen and (min-width: 768px) {    
+    text-align: left;
+  }
+}
+
+.item-container {
+  display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+}
+
+.item-box {
+    flex-basis: 100%;
+    position: relative;
+    padding: 8px;
+    box-sizing: border-box;
+    width: 259px;
+
+    @media screen and (min-width: 420px) {
+
+        flex-basis: 50%;
+
+    }
+    @media screen and (min-width: 768px) {
+
+        flex-basis: 33.33%;
+ 
+    }
+    @media screen and (min-width: 1024px) {
+    
+        flex-basis: 20%;
+
+    }
+    @media screen and (min-width: 1280px) {
+  
+        flex-basis: 16.66%;
+    }
+}
+
+.filters-tab-box {
+  display: flex;
+  align-items: center;
+ 
+  @media screen and (min-width: 768px) {    
+    margin-right: 50px;
+  }
+}
+
+.filters-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-direction: column-reverse;
+  margin-top: 20px;
+
+  @media screen and (min-width: 768px) {    
+    justify-content: initial;
+    flex-direction: row;
+    margin-top: 0;
+  }
+}
+
+.header {
+  padding: 0 15px 10px 15px;
+
+  @media screen and (min-width: 768px) {    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 8px 10px 8px;
+  }
+}
+
+.results-message {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 40px;
+  width: 100%;
+  color: #FF0000;
+}
