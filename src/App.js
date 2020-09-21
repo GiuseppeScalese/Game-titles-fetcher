@@ -71,7 +71,7 @@ function App() {
       <div className={`${styles['item-container']}`}>
         {data.map((data, i) => {
           return <div key={i} className={`${styles['item-box']}`}>
-            <Card cardLink={data.link} cardTitle={data.linkTitle} cardName={data.name} cardImage={data.image} />
+            <Card cardTag={data.tag} cardLink={data.link} cardTitle={data.linkTitle} cardName={data.name} cardImage={data.image} />
           </div>
         })}
         {data.length === 0 && <span className={`${styles['results-message']}`}>No games found to display!</span>}

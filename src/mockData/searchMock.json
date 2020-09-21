@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "fruit spin",
-    "tag": "",
+    "tag": "new",
     "image": "../img/fruit-spin.png",
     "link": "path/to/game",
     "linkTitle": "Play Fruit Spin!"
@@ -137,11 +137,11 @@
   },
   {
     "id": 17,
-    "name": "hotline-new",
+    "name": "hotline",
     "tag": "new",
-    "image":  "../img/hotline-new.png",
+    "image":  "../img/hotline.png",
     "link": "path/to/game",
-    "linkTitle": "Play Hotline New!"
+    "linkTitle": "Play Hotline!"
   },
   {
     "id": 17,
