@@ -3,114 +3,133 @@
     "id": 1,
     "tag": "gonzos quest",
     "name": "",
-    "image": "../img/gonzo-quest.png"
+    "image": "../img/gonzo-quest.png",
+    "link": "path/to/game"
   },
   {
     "id": 2,
     "name": "aloha",
     "tag": "new",
-    "image": "../img/aloha.png"
+    "image": "../img/aloha.png",
+    "link": "path/to/game"
   },
   {
     "id": 3,
     "name": "hotline",
     "tag": "top",
-    "image": "../img/hotline.png"
+    "image": "../img/hotline.png",
+    "link": "path/to/game"
   },
   {
     "id": 4,
     "name": "fruit spin",
     "tag": "",
-    "image": "../img/fruit-spin.png"
+    "image": "../img/fruit-spin.png",
+    "link": "path/to/game"
   },
   {
     "id": 5,
     "name": "jumanji",
     "tag": "",
-    "image":  "../img/jumanji.png"
+    "image":  "../img/jumanji.png",
+    "link": "path/to/game"
   },
   {
     "id": 6,
     "name": "fruit spin",
     "tag": "top",
-    "image":  "../img/fruit-spin.png"
+    "image":  "../img/fruit-spin.png",
+    "link": "path/to/game"
   },
   {
     "id": 7,
     "name": "neon jungle",
     "tag": "",
-    "image":  "../img/neon-jungle.png"
+    "image":  "../img/neon-jungle.png",
+    "link": "path/to/game"
   }, 
   {
     "id": 8,
     "name": "jack hammer",
     "tag": "top",
-    "image":  "../img/jack-hammer.png"
+    "image":  "../img/jack-hammer.png",
+    "link": "path/to/game"
   },
   {
     "id": 9,
     "name": "spinata grande",
     "tag": "",
-    "image":  "../img/spinata-grande.png"
+    "image":  "../img/spinata-grande.png",
+    "link": "path/to/game"
   },
   {
     "id": 10,
     "name": "sugar smash",
     "tag": "",
-    "image":  "../img/sugar-smash.png"
+    "image":  "../img/sugar-smash.png",
+    "link": "path/to/game"
   },
   {
     "id": 11,
     "name": "jumanji",
     "tag": "",
-    "image":  "../img/jumanji.png"
+    "image":  "../img/jumanji.png",
+    "link": "path/to/game"
   },
   {
     "id": 10,
     "name": "hot gems",
     "tag": "",
-    "image":  "../img/hot-gems.png"
+    "image":  "../img/hot-gems.png",
+    "link": "path/to/game"
   },
   {
     "id": 12,
     "name": "fafa twins",
     "tag": "top",
-    "image":  "../img/fafa-twins.png"
+    "image":  "../img/fafa-twins.png",
+    "link": "path/to/game"
   },
   {
     "id": 13,
     "name": "day of the dead",
     "tag": "",
-    "image":  "../img/day-of-the-dead.png"
+    "image":  "../img/day-of-the-dead.png",
+    "link": "path/to/game"
   },
   {
     "id": 14,
     "name": "dr. jeckyll and mr. hyde",
     "tag": "",
-    "image":  "../img/dr-jekyll.png"
+    "image":  "../img/dr-jekyll.png",
+    "link": "path/to/game"
   },
   {
     "id": 15,
     "name": "3 hit pay",
     "tag": "",
-    "image":  "../img/three-hit-pay.png"
+    "image":  "../img/three-hit-pay.png",
+    "link": "path/to/game"
   },
   {
     "id": 16,
     "name": "aloha",
     "tag": "new",
-    "image":  "../img/aloha.png"
+    "image":  "../img/aloha.png",
+    "link": "path/to/game"
   },
   {
     "id": 17,
     "name": "hotline-new",
     "tag": "new",
-    "image":  "../img/hotline-new.png"
+    "image":  "../img/hotline-new.png",
+    "link": "path/to/game"
   },
   {
     "id": 17,
     "name": "sea-tranquillity",
     "tag": "new",
-    "image":  "../img/sea-tranquillity.png"
+    "image":  "../img/sea-tranquillity.png",
+    "link": "path/to/game"
   }
 ]

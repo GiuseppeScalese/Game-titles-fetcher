@@ -17,7 +17,7 @@ function App() {
   const [isTabSelected, setTabSelected] = useState("");
 
   // exclude column list from search filter
-  const excludeColumns = ["id", "tag", "image"];
+  const excludeColumns = ["id", "tag", "image", "link"];
 
   // handle change event of search input
   const handleChange = value => {
@@ -71,7 +71,9 @@ function App() {
       <div className={`${styles['item-container']}`}>
         {data.map((data, i) => {
           return <div key={i} className={`${styles['item-box']}`}>
-            <Image source={data.image} size="fit" altText={data.name} />
+            <a className={`${styles.card}`} href={data.link} title={data.name}><Image source={data.image} size="fit" altText={data.name} />
+              <span className={`${styles['card-copy']}`}>PLAY!</span>
+            </a>
           </div>
         })}
         {data.length === 0 && <span className={`${styles['results-message']}`}>No games found to display!</span>}
