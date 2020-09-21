@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import SearchBar from './components/SearchBar/SearchBar';
 import FilterTab from './components/FilterTab/FilterTab';
-import Image from './components/Image/Image';
+import Card from './components/Card/Card';
 import Heading from './components/Heading/Heading';
 import searchMockData from './mockData/searchMock.json';
 import styles from './App.module.scss';
@@ -71,9 +71,7 @@ function App() {
       <div className={`${styles['item-container']}`}>
         {data.map((data, i) => {
           return <div key={i} className={`${styles['item-box']}`}>
-            <a className={`${styles.card}`} href={data.link} title={data.name}><Image source={data.image} size="fit" altText={data.name} />
-              <span className={`${styles['card-copy']}`}>PLAY!</span>
-            </a>
+            <Card cardLink={data.link} cardName={data.name} cardImage={data.image} />
           </div>
         })}
         {data.length === 0 && <span className={`${styles['results-message']}`}>No games found to display!</span>}

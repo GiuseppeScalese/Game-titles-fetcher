@@ -1,6 +1,6 @@
 ## Game titles fetcher
-Created project with React, ES6, HTML and SASS. Mobile first approach applied. 
-The project was tested on Chrome, Firefox, MS Edge and Safari.
+Created project with React, ES6, HTML and SASS. Mobile first approach used. 
+The project was tested in Chrome, Firefox, MS Edge and Safari.
 
 
 
