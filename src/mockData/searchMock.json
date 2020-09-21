@@ -1,135 +1,154 @@
 [
   {
     "id": 1,
-    "tag": "gonzos quest",
-    "name": "",
+    "name": "gonzo's quest",
+    "tag": "",
     "image": "../img/gonzo-quest.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Gonzo's Quest!"
   },
   {
     "id": 2,
     "name": "aloha",
     "tag": "new",
     "image": "../img/aloha.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Aloha!"
   },
   {
     "id": 3,
     "name": "hotline",
     "tag": "top",
     "image": "../img/hotline.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Hotline!"
   },
   {
     "id": 4,
     "name": "fruit spin",
     "tag": "",
     "image": "../img/fruit-spin.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Fruit Spin!"
   },
   {
     "id": 5,
     "name": "jumanji",
     "tag": "",
     "image":  "../img/jumanji.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Jumanji!"
   },
   {
     "id": 6,
     "name": "fruit spin",
     "tag": "top",
     "image":  "../img/fruit-spin.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Fruit Spin!"
   },
   {
     "id": 7,
     "name": "neon jungle",
     "tag": "",
     "image":  "../img/neon-jungle.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Neon Jungle!"
   }, 
   {
     "id": 8,
     "name": "jack hammer",
     "tag": "top",
     "image":  "../img/jack-hammer.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Jack Hammer!"
   },
   {
     "id": 9,
     "name": "spinata grande",
     "tag": "",
     "image":  "../img/spinata-grande.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Spinata Grande!"
   },
   {
     "id": 10,
     "name": "sugar smash",
-    "tag": "",
+    "tag": "top",
     "image":  "../img/sugar-smash.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Sugar Smash!"
   },
   {
     "id": 11,
     "name": "jumanji",
     "tag": "",
     "image":  "../img/jumanji.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Jumanji!"
   },
   {
     "id": 10,
     "name": "hot gems",
     "tag": "",
     "image":  "../img/hot-gems.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Hot Games!"
   },
   {
     "id": 12,
     "name": "fafa twins",
     "tag": "top",
     "image":  "../img/fafa-twins.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play FAFA Twins!"
   },
   {
     "id": 13,
     "name": "day of the dead",
     "tag": "",
     "image":  "../img/day-of-the-dead.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Day of The Dead!"
   },
   {
     "id": 14,
-    "name": "dr. jeckyll and mr. hyde",
+    "name": "dr. jekyll and mr. hyde",
     "tag": "",
     "image":  "../img/dr-jekyll.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Dr. Jekill and Mr. Hyde!"
   },
   {
     "id": 15,
     "name": "3 hit pay",
     "tag": "",
     "image":  "../img/three-hit-pay.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play 3 Hit Play!"
   },
   {
     "id": 16,
     "name": "aloha",
     "tag": "new",
     "image":  "../img/aloha.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Aloha!"
   },
   {
     "id": 17,
     "name": "hotline-new",
     "tag": "new",
     "image":  "../img/hotline-new.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Hotline New!"
   },
   {
     "id": 17,
     "name": "sea-tranquillity",
     "tag": "new",
     "image":  "../img/sea-tranquillity.png",
-    "link": "path/to/game"
+    "link": "path/to/game",
+    "linkTitle": "Play Sea Tranquillity!"
   }
 ]
