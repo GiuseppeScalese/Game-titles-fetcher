@@ -7,7 +7,7 @@ const Card = ({
 
   if (cardTag === 'new') {
     return (  
-    <CardType cardTag="icon-tag-new"  {...rest} />
+      <CardType cardTag="icon-tag-new"  {...rest} />
     )
   } else if (cardTag === 'top') {
     return (
