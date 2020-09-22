@@ -16,9 +16,6 @@ function App() {
   const [data, setData] = useState(dataList);
   const [isTabSelected, setTabSelected] = useState("");
 
-  // exclude column list from search filter
-  const excludeColumns = ["id", "tag", "image", "link", "linkTitle"];
-
   // handle change event of search input
   const handleChange = value => {
     setSearchText(value);
@@ -45,15 +42,11 @@ function App() {
 
     if (lowercasedValue === "") setData(dataList);
     else {
-      const filteredData = dataList.filter(item => {
-        return Object.keys(item).some(key =>
-          excludeColumns.includes(key) ? false : item[key].toString().toLowerCase().includes(lowercasedValue)
-        );
-      });
+      const filteredData = dataList.filter(item => item.name.includes(lowercasedValue));
       setData(filteredData);
     }
   }
-
+  
   return (
     <div className={`${styles['app-wrapper']}`}>
       <div className={`${styles['header']}`}>

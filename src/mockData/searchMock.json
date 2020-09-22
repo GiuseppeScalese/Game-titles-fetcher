@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "fruit spin",
-    "tag": "top",
+    "tag": "",
     "image":  "../img/fruit-spin.png",
     "link": "path/to/game",
     "linkTitle": "Play Fruit Spin!"
@@ -90,7 +90,7 @@
   {
     "id": 10,
     "name": "hot gems",
-    "tag": "",
+    "tag": "new",
     "image":  "../img/hot-gems.png",
     "link": "path/to/game",
     "linkTitle": "Play Hot Games!"
@@ -114,7 +114,7 @@
   {
     "id": 14,
     "name": "dr. jekyll and mr. hyde",
-    "tag": "",
+    "tag": "new",
     "image":  "../img/dr-jekyll.png",
     "link": "path/to/game",
     "linkTitle": "Play Dr. Jekill and Mr. Hyde!"
@@ -130,7 +130,7 @@
   {
     "id": 16,
     "name": "aloha",
-    "tag": "new",
+    "tag": "",
     "image":  "../img/aloha.png",
     "link": "path/to/game",
     "linkTitle": "Play Aloha!"
