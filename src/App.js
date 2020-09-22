@@ -17,7 +17,7 @@ function App() {
   const [isTabSelected, setTabSelected] = useState("");
 
   // exclude column list from search filter
-  const excludeColumns = ["id", "tag", "image", "link"];
+  const excludeColumns = ["id", "tag", "image", "link", "linkTitle"];
 
   // handle change event of search input
   const handleChange = value => {
