@@ -16,41 +16,41 @@
     "linkTitle": "Play Aloha!"
   },
   {
-    "id": 3,
-    "name": "hotline",
-    "tag": "top",
-    "image": "../img/hotline.png",
+    "name": "3 hit pay",
+    "tag": "",
+    "image":  "../img/three-hit-pay.png",
+    "imageSize": "big",
     "link": "path/to/game",
-    "linkTitle": "Play Hotline!"
+    "linkTitle": "Play 3 Hit Play!"
   },
   {
     "id": 4,
     "name": "fruit spin",
-    "tag": "new",
+    "tag": "",
     "image": "../img/fruit-spin.png",
     "link": "path/to/game",
     "linkTitle": "Play Fruit Spin!"
   },
   {
     "id": 5,
-    "name": "jumanji",
+    "name": "day of the dead",
     "tag": "",
-    "image":  "../img/jumanji.png",
+    "image":  "../img/day-of-the-dead.png",
     "link": "path/to/game",
-    "linkTitle": "Play Jumanji!"
+    "linkTitle": "Play Day of The Dead!"
   },
   {
     "id": 6,
-    "name": "fruit spin",
-    "tag": "",
-    "image":  "../img/fruit-spin.png",
+    "name": "hot gems",
+    "tag": "new",
+    "image":  "../img/hot-gems.png",
     "link": "path/to/game",
-    "linkTitle": "Play Fruit Spin!"
+    "linkTitle": "Play Hot Gems!"
   },
   {
     "id": 7,
     "name": "neon jungle",
-    "tag": "",
+    "tag": "top",
     "image":  "../img/neon-jungle.png",
     "link": "path/to/game",
     "linkTitle": "Play Neon Jungle!"
@@ -81,11 +81,11 @@
   },
   {
     "id": 11,
-    "name": "jumanji",
+    "name": "day of the dead",
     "tag": "",
-    "image":  "../img/jumanji.png",
+    "image":  "../img/day-of-the-dead.png",
     "link": "path/to/game",
-    "linkTitle": "Play Jumanji!"
+    "linkTitle": "Play Day of The Dead!"
   },
   {
     "id": 10,
@@ -121,11 +121,12 @@
   },
   {
     "id": 15,
-    "name": "3 hit pay",
+    "name": "jumanji",
     "tag": "",
-    "image":  "../img/three-hit-pay.png",
+    "image": "../img/jumanji.png",
+    "imageSize": "big",
     "link": "path/to/game",
-    "linkTitle": "Play 3 Hit Play!"
+    "linkTitle": "Play Jumanji!"
   },
   {
     "id": 16,
@@ -144,11 +145,35 @@
     "linkTitle": "Play Hotline!"
   },
   {
-    "id": 17,
+    "id": 18,
+    "name": "gonzo's quest",
+    "tag": "",
+    "image": "../img/gonzo-quest.png",
+    "link": "path/to/game",
+    "linkTitle": "Play Gonzo's Quest!"
+  },
+  {
+    "id": 19,
     "name": "sea-tranquillity",
     "tag": "new",
     "image":  "../img/sea-tranquillity.png",
     "link": "path/to/game",
     "linkTitle": "Play Sea Tranquillity!"
+  },
+  {
+    "id": 20,
+    "name": "hotline",
+    "tag": "new",
+    "image":  "../img/hotline.png",
+    "link": "path/to/game",
+    "linkTitle": "Play Hotline!"
+  },
+  {
+    "id": 21,
+    "name": "spinata grande",
+    "tag": "",
+    "image":  "../img/spinata-grande.png",
+    "link": "path/to/game",
+    "linkTitle": "Play Spinata Grande!"
   }
 ]
